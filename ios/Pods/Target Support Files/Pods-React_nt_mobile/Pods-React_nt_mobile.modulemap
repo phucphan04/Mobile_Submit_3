@@ -1,0 +1,6 @@
+module Pods_React_nt_mobile {
+  umbrella header "Pods-React_nt_mobile-umbrella.h"
+
+  export *
+  module * { export * }
+}

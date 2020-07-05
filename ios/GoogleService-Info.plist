@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>710777237846-dbdk5aket315g3ul2g986h81e5h8e98s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.710777237846-dbdk5aket315g3ul2g986h81e5h8e98s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAn4zumvCYkAMM9l-QcEQoWoQACFPqafZw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>710777237846</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.React-nt-mobile</string>
+	<key>PROJECT_ID</key>
+	<string>appchat-ec373</string>
+	<key>STORAGE_BUCKET</key>
+	<string>appchat-ec373.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:710777237846:ios:252d65b67138a51e58e6f7</string>
+	<key>DATABASE_URL</key>
+	<string>https://appchat-ec373.firebaseio.com</string>
+</dict>
+</plist>
